@@ -1,4 +1,6 @@
 #El Sombrero Seleccionador es un sombrero parlante mágico en el Colegio Hogwarts de Magia y Hechicería. El sombrero decide a cuál de las cuatro "Casas" va cada estudiante de primer año
+#Incompleto
+
 
 def casas(casa):
     if casa == "grifindor":
